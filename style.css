@@ -1,0 +1,91 @@
+body{
+	background: #777;
+	width: 960px;
+}
+#content{
+	position: relative;
+	left:18%;
+}
+
+#header {
+	height: 50px;
+	text-align: center;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+#nav{
+	height: 50px;
+	text-align: center;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+
+#section{
+	margin-top: 18px;
+	margin-bottom: 18px;
+	float: left;
+	text-align: center;
+	width: 495px;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+
+#headerTag{
+	position: relative;
+	bottom: 10px;
+	margin-right: 18px;
+    margin-left: 18px;
+    margin-bottom: 5px;
+    height: 50px;
+	text-align: center;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+#paragraph{
+	position: relative;
+	bottom: 18px;
+	margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 5px;
+    float: center;
+    height: 50px;
+	text-align: center;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+
+article{
+	width: 250px;
+    margin-left: 125px;
+	text-align: center;
+	float: center;
+	background: #777;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+aside{
+	position: relative;
+	right: 0%;
+	height: 234px;
+	margin-top: 18px;
+	margin-bottom: 18px;
+	text-align: center;
+	width: 447px;
+	float: right;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+}
+footer{
+	text-align: center;
+	background: #ebebeb;
+	font-size: 18px;
+	font-family:Helvetica, sans-serif;
+	clear: both;
+	height: 50px;
+}
